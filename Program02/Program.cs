@@ -12,23 +12,24 @@ c = Convert.ToInt32(Console.ReadLine());
 
    {
 
-       Console.WriteLine(a);
+       Console.WriteLine("{0} максимальное число", a);
     
      }
 
      else if (a < b && b > c)
      {
 
-       Console.WriteLine(b);
+       Console.WriteLine("{0} максимальное число", b);
     
      }
 
      else if (a < c && c > b)
      {
 
-     Console.WriteLine(c);
+     Console.WriteLine("{0} максимальное число", c);
     
      }
       
      Console.ReadLine();
+
 
