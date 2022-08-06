@@ -1,0 +1,15 @@
+C:\Users\vvv19\Documents\Homework\Program04\bin\Debug\net6.0\Program04.exe
+C:\Users\vvv19\Documents\Homework\Program04\bin\Debug\net6.0\Program04.deps.json
+C:\Users\vvv19\Documents\Homework\Program04\bin\Debug\net6.0\Program04.runtimeconfig.json
+C:\Users\vvv19\Documents\Homework\Program04\bin\Debug\net6.0\Program04.dll
+C:\Users\vvv19\Documents\Homework\Program04\bin\Debug\net6.0\Program04.pdb
+C:\Users\vvv19\Documents\Homework\Program04\obj\Debug\net6.0\Program04.csproj.AssemblyReference.cache
+C:\Users\vvv19\Documents\Homework\Program04\obj\Debug\net6.0\Program04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvv19\Documents\Homework\Program04\obj\Debug\net6.0\Program04.AssemblyInfoInputs.cache
+C:\Users\vvv19\Documents\Homework\Program04\obj\Debug\net6.0\Program04.AssemblyInfo.cs
+C:\Users\vvv19\Documents\Homework\Program04\obj\Debug\net6.0\Program04.csproj.CoreCompileInputs.cache
+C:\Users\vvv19\Documents\Homework\Program04\obj\Debug\net6.0\Program04.dll
+C:\Users\vvv19\Documents\Homework\Program04\obj\Debug\net6.0\refint\Program04.dll
+C:\Users\vvv19\Documents\Homework\Program04\obj\Debug\net6.0\Program04.pdb
+C:\Users\vvv19\Documents\Homework\Program04\obj\Debug\net6.0\Program04.genruntimeconfig.cache
+C:\Users\vvv19\Documents\Homework\Program04\obj\Debug\net6.0\ref\Program04.dll
