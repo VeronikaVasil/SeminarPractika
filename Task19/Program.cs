@@ -4,7 +4,6 @@ Console.Write("Введите пятизначное число: ");
 
 string DigitNumber = Console.ReadLine();
 
-
 if (DigitNumber[0] == DigitNumber[4] || DigitNumber[1] == DigitNumber[3])
   
   {
