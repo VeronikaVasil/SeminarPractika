@@ -17,4 +17,5 @@ a = Convert.ToInt32(Console.ReadLine());
     {
         Console.Write("Это рабочий день недели");
     }    
+Console.ReadLine();
 
