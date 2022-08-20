@@ -10,3 +10,4 @@ string str = a.ToString();
 
 Console.Write("{0} вторая цифра данного числа", (str[1]));
 
+Console.ReadLine();
