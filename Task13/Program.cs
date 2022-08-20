@@ -21,4 +21,6 @@ a = Convert.ToInt32(Console.ReadLine());
             Console.Write("{0} третья цифра", (str[2]));
         }
         
+Console.ReadLine();
+
 
