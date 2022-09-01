@@ -41,9 +41,9 @@ PrintArray(numbers);
 
 Console.WriteLine();
 {
- if (r > numbers.GetLength(0) || c > numbers.GetLength(1))
+ if (r > numbers.GetLength(0) || c > numbers.GetLength(1) || r < 0 || c < 0)
   {
-    Console.WriteLine($"Такого числа в массиве нет");
+    Console.WriteLine("Такого числа в массиве нет");
   }
  else
   {
