@@ -4,15 +4,15 @@ M = 1; N = 15 -> 120
 M = 4; N = 8. -> 30
 */
 Console.Write("Введите numberM: ");
-int M = int.Parse(Console.ReadLine());
+int M = int.Parse(Console.ReadLine()!);
 Console.Write("Введите numberN: ");
-int N = int.Parse(Console.ReadLine());
+int N = int.Parse(Console.ReadLine()!);
 
-int Summ (int M, int N)
+int getSumm (int M, int N)
 {
- if (M < N) return N + Summ(M, N - 1);
+ if (M < N) return N + getSumm(M, N - 1);
  return M;
 }
-int summ = Summ(M, N);
-Console.Write($"SummNumbers = {summ} ");
+int SummNumbers = getSumm(M, N);
+Console.Write($"SummNumbers = {SummNumbers}");
 
