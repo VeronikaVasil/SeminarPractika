@@ -7,7 +7,8 @@ class StringConversion
  static void Main()
  {
   Console.Write("Введите элементы массива {M}, разделяя их пробелом:   ");
-  int[] massiv = Array.ConvertAll(Console.ReadLine().Split(' '), Int32.Parse);
+  
+  int[] massiv = Array.ConvertAll(Console.ReadLine()!.Split(' '), Convert.ToInt32);
   Console.WriteLine();
 
   int count = 0;
