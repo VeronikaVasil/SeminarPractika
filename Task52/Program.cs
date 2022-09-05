@@ -23,8 +23,8 @@ int[,]GetArray (int m, int n)
     }
     return matrix;
 }
-
  int[,] result = GetArray(rows, columns);
+ 
  void PrintArray (int[,]inputMatrix)
  {
     for (int i = 0; i < inputMatrix.GetLength(0); i++)
