@@ -63,12 +63,12 @@ int [,] firstArray = GetArray(rows, ColumnsRows);
 int [,] secondArray = GetArray(ColumnsRows, columns);
 Console.WriteLine($"I матрица состоит из({rows}) строк и ({ColumnsRows}) столбцов:");
 PrintArray(firstArray);
+
 Console.WriteLine();
 Console.WriteLine($"II матрица состоит из ({ColumnsRows}) строк и ({columns}) столбцов:");
 PrintArray(secondArray);
+
 int [,] thirdArray = ArrayMultiply(firstArray, secondArray);
 Console.WriteLine();
 Console.WriteLine($"Произведение матриц = ({rows}) строк и ({columns}) столбцов:");
 PrintArray(thirdArray);
-Console.WriteLine();
-Console.ReadLine();
