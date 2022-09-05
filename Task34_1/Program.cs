@@ -8,19 +8,13 @@ for (int i = 0; i < 4; i++)
 {
     array[i] = x.Next(100, 1000);
 }
-
 int count = 0;
 for (int i = 0; i < array.Length; i++)
 {
     Console.Write(array[i] + " ");
-
-    if (array[i] % 2 == 0) count++;
-
+    if (array[i] % 2 == 0)
+     count++;
 }
+Console.WriteLine();
 Console.WriteLine($"Количество чётных чисел: {count} ");
 Console.ReadLine();
-
-
-
-
-
